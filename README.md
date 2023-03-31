@@ -66,6 +66,7 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 ![image](https://user-images.githubusercontent.com/123469171/229092012-f32cb37b-1463-4d63-9151-3e3d5fc880d8.png)
+![image](https://user-images.githubusercontent.com/123469171/229092310-fc6f701c-05f0-4039-9a69-b4a0e84d1276.png)
 
 
 ## RESULT:
